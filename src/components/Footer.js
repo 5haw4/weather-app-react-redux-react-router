@@ -10,7 +10,7 @@ export default function Footer() {
                 style={{height: "100%"}}
                 leftItems={[
                     <p style={{color:"white", margin: 0}}>
-                        All Rights Reseved Goes Here © {new Date().getFullYear()}
+                        All Rights Reserved Goes Here © {new Date().getFullYear()}
                     </p>
                 ]}
                 rightItems={[

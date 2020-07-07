@@ -1,7 +1,7 @@
 import { getCookie } from "./cookies"
 
 //AccuWeather API
-const API_BASE_URL = "http://dataservice.accuweather.com/"
+const API_BASE_URL = "https://dataservice.accuweather.com/"
 const API_KEY = "YGqnk3lBPGGPr4JN5DRxyG9zkCGGLAOz"
 const getApiKey = () => {
     return getCookie(USER_WEATHER_API_KEY_CID) || API_KEY

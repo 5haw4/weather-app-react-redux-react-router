@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://5haw4.github.io/shawn-weather-app-05-07-2020/",
+  "homepage": "https://5haw4.github.io/shawn-weather-05-07-2020/",
   "dependencies": {
     "@blueprintjs/core": "^3.29.0",
     "@testing-library/jest-dom": "^4.2.4",

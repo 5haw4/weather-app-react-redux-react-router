@@ -53,7 +53,7 @@ const Home = (props) => {
                 value: searchQuery,
                 onChange: (e) => props.updateSearchQuery(e.target.value),
                 placeholder: "Type a city to get its weather",
-                style: {width: "100vw", maxWidth: "550px", margin: "auto"},
+                style: {width: "calc(100vw - 25px)", maxWidth: "550px", margin: "auto"},
             }}
             items={autoComplete}
             itemRenderer={item => <MenuItem style={{width: "100vw", maxWidth: "540px"}}
@@ -94,7 +94,7 @@ const Home = (props) => {
             </Link>
         ]} 
         leftStyle={{flex: 1}}
-        rightStyle={{flex: 1, justifyContent: "end"}}
+        rightStyle={{flex: 1, justifyContent: "flex-end"}}
         rightItems={[
             <Button onClick={() => props.toggleFavoriteLocation({key, city, country})} 
                 icon={isFavorite ? "star" : "star-empty"}>

@@ -33,7 +33,7 @@ export default function App() {
 
 	return (
 		<>
-			<BrowserRouter>
+			<BrowserRouter basename="/shawn-weather-05-07-2020">
 				<Navbar />
 				<div id="content">
 					<Switch>
