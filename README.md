@@ -4,7 +4,7 @@ WeatherApp built w/ ReactJS, Redux (w/ redux-thunk), react-router, node-sass and
 Data is pulled from the [AccuWeather API](https://developer.accuweather.com).
 
 ## Demo:
-You can try the demo hosted on my Github Pages in the following [link](https://5haw4.github.io/shawn-weather-app-05-07-2020).
+You can try the demo hosted on my Github Pages in the following [link](https://5haw4.github.io/shawn-weather-05-07-2020).
 
 ## Features:
 - Get weather based on your geo-location
