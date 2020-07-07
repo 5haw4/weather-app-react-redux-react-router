@@ -6,7 +6,7 @@ Data is pulled from the [AccuWeather API](https://developer.accuweather.com).
 ## Demo:
 You can try the demo hosted on my Github Pages in the following [link](https://5haw4.github.io/shawn-weather-app-05-07-2020).
 
-![Main Page Screenshot](https://github.com/5haw4/shawn-weather-05-07-2020/screenshot.JPG)
+![Main Page Screenshot](https://github.com/5haw4/shawn-weather-05-07-2020/blob/master/screenshot.JPG?raw=true)
 
 ## Features:
 - Get weather based on your geo-location
