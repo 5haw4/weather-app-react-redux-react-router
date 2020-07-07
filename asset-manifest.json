@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shawn-weather-05-07-2020/static/css/main.90f845ac.chunk.css",
+    "main.js": "/shawn-weather-05-07-2020/static/js/main.86494c18.chunk.js",
+    "main.js.map": "/shawn-weather-05-07-2020/static/js/main.86494c18.chunk.js.map",
+    "runtime-main.js": "/shawn-weather-05-07-2020/static/js/runtime-main.dee0830c.js",
+    "runtime-main.js.map": "/shawn-weather-05-07-2020/static/js/runtime-main.dee0830c.js.map",
+    "static/css/2.c4a494fa.chunk.css": "/shawn-weather-05-07-2020/static/css/2.c4a494fa.chunk.css",
+    "static/js/2.daa46f27.chunk.js": "/shawn-weather-05-07-2020/static/js/2.daa46f27.chunk.js",
+    "static/js/2.daa46f27.chunk.js.map": "/shawn-weather-05-07-2020/static/js/2.daa46f27.chunk.js.map",
+    "index.html": "/shawn-weather-05-07-2020/index.html",
+    "precache-manifest.21c07bcdf20935948eef441a6f5537d5.js": "/shawn-weather-05-07-2020/precache-manifest.21c07bcdf20935948eef441a6f5537d5.js",
+    "service-worker.js": "/shawn-weather-05-07-2020/service-worker.js",
+    "static/css/2.c4a494fa.chunk.css.map": "/shawn-weather-05-07-2020/static/css/2.c4a494fa.chunk.css.map",
+    "static/css/main.90f845ac.chunk.css.map": "/shawn-weather-05-07-2020/static/css/main.90f845ac.chunk.css.map",
+    "static/js/2.daa46f27.chunk.js.LICENSE.txt": "/shawn-weather-05-07-2020/static/js/2.daa46f27.chunk.js.LICENSE.txt",
+    "static/media/blueprint-icons.css": "/shawn-weather-05-07-2020/static/media/icons-20.cef8cdbb.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dee0830c.js",
+    "static/css/2.c4a494fa.chunk.css",
+    "static/js/2.daa46f27.chunk.js",
+    "static/css/main.90f845ac.chunk.css",
+    "static/js/main.86494c18.chunk.js"
+  ]
+}
