@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shawn-weather-05-07-2020/precache-manifest.014e92e71a2f7f942bc70ec1de061021.js"
+  "/shawn-weather-05-07-2020/precache-manifest.30d853e3a39f64bd9d532dc8b8364e57.js"
 );
 
 self.addEventListener('message', (event) => {
