@@ -4,7 +4,7 @@ WeatherApp built w/ ReactJS, Redux (w/ redux-thunk), react-router, node-sass and
 Data is pulled from the [AccuWeather API](https://developer.accuweather.com).
 
 ## Demo:
-You can try the demo hosted on my Github Pages in the following [link](https://5haw4.github.io/shawn-weather-05-07-2020).
+You can try the demo hosted on my Github Pages in the following [link](https://5haw4.github.io/weather-app-react-redux-react-router).
 
 ## Features:
 - Get weather based on your geo-location
@@ -18,7 +18,7 @@ You can try the demo hosted on my Github Pages in the following [link](https://5
         - Loading geo-location weather
     - Else loading Tel-Aviv's weather by default
 
-![Main Page Screenshot](https://github.com/5haw4/shawn-weather-05-07-2020/blob/master/screenshot.JPG?raw=true)
+![Main Page Screenshot](https://github.com/5haw4/weather-app-react-redux-react-router/blob/master/screenshot.JPG?raw=true)
 
 ## Libraries:
 - [redux](https://www.npmjs.com/package/redux) - state container
