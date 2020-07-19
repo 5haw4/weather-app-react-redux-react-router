@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/shawn-weather-05-07-2020/static/css/main.90f845ac.chunk.css",
-    "main.js": "/shawn-weather-05-07-2020/static/js/main.01c46c11.chunk.js",
-    "main.js.map": "/shawn-weather-05-07-2020/static/js/main.01c46c11.chunk.js.map",
-    "runtime-main.js": "/shawn-weather-05-07-2020/static/js/runtime-main.dee0830c.js",
-    "runtime-main.js.map": "/shawn-weather-05-07-2020/static/js/runtime-main.dee0830c.js.map",
-    "static/css/2.c4a494fa.chunk.css": "/shawn-weather-05-07-2020/static/css/2.c4a494fa.chunk.css",
-    "static/js/2.daa46f27.chunk.js": "/shawn-weather-05-07-2020/static/js/2.daa46f27.chunk.js",
-    "static/js/2.daa46f27.chunk.js.map": "/shawn-weather-05-07-2020/static/js/2.daa46f27.chunk.js.map",
-    "index.html": "/shawn-weather-05-07-2020/index.html",
-    "precache-manifest.86a6a352d7d2a951ca95ad01275b6c4b.js": "/shawn-weather-05-07-2020/precache-manifest.86a6a352d7d2a951ca95ad01275b6c4b.js",
-    "service-worker.js": "/shawn-weather-05-07-2020/service-worker.js",
-    "static/css/2.c4a494fa.chunk.css.map": "/shawn-weather-05-07-2020/static/css/2.c4a494fa.chunk.css.map",
-    "static/css/main.90f845ac.chunk.css.map": "/shawn-weather-05-07-2020/static/css/main.90f845ac.chunk.css.map",
-    "static/js/2.daa46f27.chunk.js.LICENSE.txt": "/shawn-weather-05-07-2020/static/js/2.daa46f27.chunk.js.LICENSE.txt",
-    "static/media/blueprint-icons.css": "/shawn-weather-05-07-2020/static/media/icons-20.cef8cdbb.woff"
+    "main.css": "/weather-app-react-redux-react-router/static/css/main.90f845ac.chunk.css",
+    "main.js": "/weather-app-react-redux-react-router/static/js/main.83b7ced1.chunk.js",
+    "main.js.map": "/weather-app-react-redux-react-router/static/js/main.83b7ced1.chunk.js.map",
+    "runtime-main.js": "/weather-app-react-redux-react-router/static/js/runtime-main.ea8a76f2.js",
+    "runtime-main.js.map": "/weather-app-react-redux-react-router/static/js/runtime-main.ea8a76f2.js.map",
+    "static/css/2.1b5e974a.chunk.css": "/weather-app-react-redux-react-router/static/css/2.1b5e974a.chunk.css",
+    "static/js/2.3b09c993.chunk.js": "/weather-app-react-redux-react-router/static/js/2.3b09c993.chunk.js",
+    "static/js/2.3b09c993.chunk.js.map": "/weather-app-react-redux-react-router/static/js/2.3b09c993.chunk.js.map",
+    "index.html": "/weather-app-react-redux-react-router/index.html",
+    "precache-manifest.01b429fae858f6429b69121109631a98.js": "/weather-app-react-redux-react-router/precache-manifest.01b429fae858f6429b69121109631a98.js",
+    "service-worker.js": "/weather-app-react-redux-react-router/service-worker.js",
+    "static/css/2.1b5e974a.chunk.css.map": "/weather-app-react-redux-react-router/static/css/2.1b5e974a.chunk.css.map",
+    "static/css/main.90f845ac.chunk.css.map": "/weather-app-react-redux-react-router/static/css/main.90f845ac.chunk.css.map",
+    "static/js/2.3b09c993.chunk.js.LICENSE.txt": "/weather-app-react-redux-react-router/static/js/2.3b09c993.chunk.js.LICENSE.txt",
+    "static/media/blueprint-icons.css": "/weather-app-react-redux-react-router/static/media/icons-20.cef8cdbb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.dee0830c.js",
-    "static/css/2.c4a494fa.chunk.css",
-    "static/js/2.daa46f27.chunk.js",
+    "static/js/runtime-main.ea8a76f2.js",
+    "static/css/2.1b5e974a.chunk.css",
+    "static/js/2.3b09c993.chunk.js",
     "static/css/main.90f845ac.chunk.css",
-    "static/js/main.01c46c11.chunk.js"
+    "static/js/main.83b7ced1.chunk.js"
   ]
 }
