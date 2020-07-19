@@ -33,7 +33,7 @@ export default function App() {
 
 	return (
 		<>
-			<BrowserRouter basename="/shawn-weather-05-07-2020">
+			<BrowserRouter basename="/weather-app-react-redux-react-router">
 				<Navbar />
 				<div id="content">
 					<Switch>
